@@ -2,15 +2,16 @@
     <channel>
         <title><![CDATA[culture]]></title>
         <description><![CDATA[culture]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/culture/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 31 Mar 2016 11:46:08 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Thu, 31 Mar 2016 11:58:04 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/culture/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
-            <link>undefined27382f7a-4e8f-447f-9497-3792810432fd/index.html</link>
+            <description><![CDATA[<p>Why everyone gets the Monty Hall problem wrong.</p>]]></description>
+            <link>https://thegrid.ai/culture/27382f7a-4e8f-447f-9497-3792810432fd/index.html</link>
             <guid isPermaLink="false">27382f7a-4e8f-447f-9497-3792810432fd</guid>
-            <pubDate>Thu, 31 Mar 2016 11:45:59 GMT</pubDate>
+            <pubDate>Thu, 31 Mar 2016 11:57:49 GMT</pubDate>
         </item>
     </channel>
 </rss>
