@@ -1,0 +1,28 @@
+name: culture
+favicon: null
+layout_spectrum: 0.6358155815396458
+typography_spectrum: 0.7555793384090066
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+  brandStrength: 0.09225001069717109
+  lightness: 0.28390054893679917
+  saturation: 0.5579433424863964
+  rhythmicContrast: 0.6934329948853701
+purpose: []
